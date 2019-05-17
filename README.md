@@ -1,4 +1,4 @@
 # DrawingPolylinsSample 
 
-A small demonstration on how to draw polylines on the google maps
+A small demonstration on how to draw polylines on google maps
 
